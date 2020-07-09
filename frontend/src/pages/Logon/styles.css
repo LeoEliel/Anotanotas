@@ -1,0 +1,13 @@
+
+Button {
+    margin-right: 90px;
+}
+
+
+.form-container a svg{
+    margin-right: 3px;
+}
+.input {
+    max-width:300px;
+    margin-bottom: 15px;
+}

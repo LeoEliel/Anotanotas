@@ -1,0 +1,16 @@
+.form-alter-note a {
+    margin-left: 75px;
+}
+
+
+.form-alter-note a svg{
+    margin-left: 30px;
+}
+
+.alter-descricao {
+    min-height: 140px;
+    max-width: 380px;
+    line-height: 24px;
+    margin-bottom: 18px;
+    resize: vertical;
+}
